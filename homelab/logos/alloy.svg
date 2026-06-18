@@ -1,0 +1,7 @@
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+  <!-- placeholder Grafana Alloy mark: orange "collector" chevrons funnelling down -->
+  <g fill="none" stroke="#F5A623" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M11 13 L24 24 L37 13"/>
+    <path d="M11 24 L24 35 L37 24"/>
+  </g>
+</svg>
